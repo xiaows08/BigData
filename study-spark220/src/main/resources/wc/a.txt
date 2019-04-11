@@ -1,0 +1,6 @@
+hello jvm
+hello tom
+hello ajax
+hello bob
+tom ajax bob
+lao old
